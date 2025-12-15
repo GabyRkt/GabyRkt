@@ -10,7 +10,7 @@
  
 <p> I’m driven by how data transforms into insight. </p>
 <p> Finding patterns, understanding behaviors, and turning complexity into clarity is what I enjoy most about analysis. </p> 
-<p> My objective is to leverage my dual expertise to bridge business needs and technical analysis in order to produce concrete solutions and to optimize operational performance. </p>
+<p> My objective is to leverage my dual expertise to bridge business needs and technical analysis in order to produce concrete solutions and optimize operational performance. </p>
 
 ---
 
