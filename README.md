@@ -4,7 +4,7 @@
 <!-- ![Banner](https://yourbannerlink.com) -->
 
 
-<p><em>Data Analysis | Insight Design | Business Intelligence</em></p>
+<p><em>Data Analysis | Business Intelligence</em></p>
 
 ---
  
