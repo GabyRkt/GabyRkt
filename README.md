@@ -10,6 +10,7 @@
  
 <p> I’m driven by how data transforms into insight. </p>
 <p> Finding patterns, understanding behaviors, and turning complexity into clarity is what I enjoy most about analysis. </p> 
+<p> My objective is to leverage my dual expertise to bridge business needs and technical analysis in order to produce concrete solutions and to optimize operational performance. </p>
 
 ---
 
@@ -22,7 +23,7 @@
 
 ### Education
 <p>🎓 Paris-Saclay University – M.Sc. Computer Science applied to Business Management </p>
-<p>🎓 Sorbonne University – B.Sc. Computer Science </p> 
+<p>🎓 Sorbonne University – B.Sc. Major Computer Science, Minor Business Management </p> 
 
 
 
